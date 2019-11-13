@@ -1,0 +1,41 @@
+•LegionOS bump to v2.2
+• Kernel upstream merge with DA
+• LegionSetting:use color accent drawables
+• Long Click QS Settings button for LegionSettings
+• Use some google pixel colors
+• Global Actions with Advanced Reboot
+• Live Volume Steps
+• SystemUI: Advanced location tile
+• Volume Rocker Wake
+• Volume key music control
+• Optimize IncallUI delay for voice calls
+• Allow doubletap/longpress power to toggle torch
+• Camera: Force HAL1 for predefined package list
+• Performance improvements
+
+
+
+• Legionos update to v2.1
+• Dark Ages Kernel 
+• About Settings : Logo 
+• Add Our LPaper app
+• Update default walls
+• Integrate Google Now feed
+
+• Legion :
+- Add Haptic Feedback to tiles
+- Add animations to quick settings tiles
+- Added FmRadio App
+- Moved aosp gestures to legion setting
+- Moved Statusbar tuner to legion
+- Three finger gesture screenshot
+
+• Fwb :
+- Add legionOS-1.x volte icon
+- Stop More logcat spams
+- Remove build version from qs footer
+
+• Settings :
+- Custom Clock faces
+- Updated and added icon drawables
+- Added few missing animations
